@@ -1,4 +1,4 @@
-# OBC Software EQM Repository
+# OBC Redundant MCU Software Repository
 
 In this repository is where all of the OBC EQM Software is housed. This is the final version that will be used on the satellite.
 The software runs on the Microchip ATSAMV71Q21B Microcontroller Unit, which is a 32-bit ARM Cortex-M7 core.
